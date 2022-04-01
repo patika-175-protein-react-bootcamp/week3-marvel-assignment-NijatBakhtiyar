@@ -13,5 +13,7 @@ https://developer.marvel.com/ API ını kullanarak geçen hafta ki çalışmanı
 
 ++ CSS, HTML, JS ile devam edeceğiz. Projenizde ekstra CSS sablonları v.s kullanmayınız.
 
-![Marvel](./src/img/Marvel.gif)
+### 🔗 [**Live Demo**](https://marvel-movie-app.netlify.app/)
 
+
+![Marvel](./src/img/Marvel.gif)
